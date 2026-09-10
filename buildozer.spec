@@ -1,3 +1,4 @@
+
 [app]
 title = Escape from Darkness
 package.name = escapefromdarkness
@@ -5,7 +6,7 @@ package.domain = org.kobe
 source.dir = .
 source.exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3,kivy
+requirements = python3,kivy,openssl,requests
 orientation = portrait
 fullscreen = 0
 android.accept_sdk_license = True
